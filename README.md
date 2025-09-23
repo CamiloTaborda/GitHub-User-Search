@@ -2,18 +2,18 @@
 
 GitHub User Search
 
-🚀 Instalación
+🚀 INSTALACION
 
-Clona o descarga el proyecto
+CLONA EL PROYECTO
 
-git clone [[url-del-repositorio]](https://github.com/CamiloTaborda/GitHub-User-Search)
+git clone https://github.com/CamiloTaborda/GitHub-User-Search
 cd GitHub-User-Search
 
-Instala las dependencias
+INSTALA LAS DEPENDENCIAS
 
 npm install
 
-Inicia el proyecto
+INICIA EL PROYECTO
 
 npm run dev
 
